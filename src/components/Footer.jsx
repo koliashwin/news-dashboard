@@ -12,7 +12,7 @@ const Footer = () => {
       </Box>
       <Box>
         <Typography variant="body2" align="center">
-          Made with ❤️ by <Link href="https://www.example.com">Our Team</Link>
+          Made with ❤️ by <Link href="https://portfolio-koliashwin.vercel.app/">Our Team</Link>
         </Typography>
       </Box>
     </Paper>

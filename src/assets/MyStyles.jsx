@@ -79,7 +79,7 @@ export const MyStyles = {
         display: 'flex', 
         justifyContent: 'space-between', 
         marginTop: '1rem', p: "5px", 
-        borderTop:"solid", 
+        // borderTop:"solid", 
         borderBottom:"solid", 
         borderColor:"black", 
         borderWidth: "1px"
